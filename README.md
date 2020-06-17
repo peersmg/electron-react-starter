@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was setup following [Building an Electron application with create-react-app](https://www.freecodecamp.org/news/building-an-electron-application-with-create-react-app-97945861647c/#:~:text=Electron%20and,is%20Facebook's%20JavaScript%20view%20framework.&text=And%20Electron%20is%20GitHub's%20framework,platform%20desktop%20apps%20in%20JavaScript.&text=Most%20use%20webpack%20for%20the%20configuration%20necessary%20for%20React%20development.).
 
 ## Available Scripts
 
@@ -6,11 +6,7 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Runs the electron app in development mode.<br />
 
 ### `yarn test`
 
